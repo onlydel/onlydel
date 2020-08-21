@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Service for the [@wooritech](https://github.com/wooritech)
 
-<--
+<!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -18,5 +18,5 @@
 
 ### Quick Link
 
-- [me](https://github.com/onlydel/me)🔒
+- [me](https://github.com/onlydel/me)`private`🔒
 - [webstack](https://github.com/onlydel/webstack)
