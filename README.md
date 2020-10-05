@@ -22,4 +22,4 @@
 | --- | --- | --- | --- |
 | [me🔒](https://github.com/onlydel/me) | [realworks](https://github.com/wooritech/realworks) | [realgriddom](https://github.com/realgrid/realgriddom) |  |
 | [webstack](https://github.com/onlydel/webstack) | [realdesk](https://github.com/wooritech/realdesk) | [docs.realgrid](https://github.com/wooritech/realgrid2-demo-1) |  |
-| | [api.realworks.com](https://github.com/wooritech/realworks-api) |  |  |
+| | [realworks-api](https://github.com/onlydel/realworks-api) |  |  |
