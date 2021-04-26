@@ -1,28 +1,27 @@
-### Hi there 👋
+# gotodoso
 
-<!--
-**onlydel/onlydel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## [onlydel](https://github.com/onlydel)
+- [me🔒](https://github.com/onlydel/me)
+- [webstack🔒](https://github.com/onlydel/webstack)
+- [elect🔒](https://github.com/onlydel/elect)
 
-- 🔭 I’m currently working on anything for the [@wooritech](https://github.com/wooritech)
+## [wooritech](https://github.com/wooritech)
+- [realworks](https://github.com/wooritech/realworks)
+- [realdesk](https://github.com/wooritech/realdesk)
 
-<!--
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## [realgrid](https://github.com/realgrid)
+- [realgriddom](https://github.com/realgrid/realgriddom)
+- [docs.realgrid](https://github.com/wooritech/realgrid2-demo-1)
+- [forum.realgrid](https://github.com/realgrid/forum.realgrid.com)
+- [realreport](https://github.com/realgrid/realreport)
 
-### Quick Link
+## API 프로젝트
+- [realauth](https://github.com/wooritech/realauth)
+- [realworks-api](https://github.com/wooritech/realworks-api)
+- [realdesk-api](https://github.com/wooritech/realdesk)
 
-| [onlydel](https://github.com/onlydel) | [wooritech](https://github.com/wooritech) | [realgrid](https://github.com/realgrid) | [realreport](https://github.com/realgrid/realreport) | API 프로젝트 | 기타
-| --- | --- | --- | --- | --- | --- |
-| [me🔒](https://github.com/onlydel/me) | [realworks](https://github.com/wooritech/realworks) | [realgriddom](https://github.com/realgrid/realgriddom) |  | [realauth](https://github.com/wooritech/realauth) | [npm trand](https://www.npmtrends.com/) |
-| [webstack](https://github.com/onlydel/webstack) | [realdesk](https://github.com/wooritech/realdesk) | [docs.realgrid](https://github.com/wooritech/realgrid2-demo-1) |  | [realworks-api](https://github.com/wooritech/realworks-api) | |
-| [elect🔒](https://github.com/onlydel/elect) | [realworks-api](https://github.com/onlydel/realworks-api) | [forum.realgrid](https://github.com/realgrid/forum.realgrid.com) |  | [realdesk-api](https://github.com/wooritech/realdesk) | |
-| | [techwell](https://github.com/wooritech/techwell) |  |  |  | |
-| | [webstack](https://github.com/wooritech/webstack) |  |  |  | |
-| | [sandbox](https://github.com/wooritech/sandbox) |  |  |  | |
+## 기타
+- [npm trand](https://www.npmtrends.com/)
+- [techwell](https://github.com/wooritech/techwell)
+- [webstack](https://github.com/wooritech/webstack)
+- [sandbox](https://github.com/wooritech/sandbox)
